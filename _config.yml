@@ -21,9 +21,9 @@ footer-links:
   email: hzmi@protonmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Hazumi
   instagram: impetus_
-  linkedin:
+  linkedin: nick-burton-312265113/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
